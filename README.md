@@ -26,6 +26,6 @@ The project includes comments and a basic structure to guide you through the imp
 
 **License:**
 
-This exercise is provided for free under the [Specify License Here, e.g., MIT License] license. See the `LICENSE` file for more details.
+This exercise is provided for free under the [MIT License] license. 
 
 **Enjoy learning about state machines with CoDeSys!*
